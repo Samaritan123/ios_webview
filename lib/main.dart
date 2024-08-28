@@ -37,7 +37,7 @@ class NumberList extends StatelessWidget {
             Navigator.push(
               context,
               CupertinoPageRoute(
-                builder: (context) => const WebViewPage(url: 'https://www.baidu.com'),
+                builder: (context) => const WebViewPage(url: 'https://samaritan123.github.io/flutter_webview/'),
               ),
             );
           },
